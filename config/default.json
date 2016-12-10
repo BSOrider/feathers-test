@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/feathersTest",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "mWrQjh4STdZdsy2noiKIegvimbhHLpEshpf2e1aA4VZXqLVwPlThnFDaC3m2hl7li6LofhK0uAuo720deedkNQ=="
+    },
+    "local": {}
+  }
+}
